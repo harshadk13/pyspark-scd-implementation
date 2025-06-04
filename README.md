@@ -59,8 +59,4 @@ Suitable for scenarios where only the most recent change needs to be tracked.
 Example: A change in location updates the current value and stores the old value in Previous_Location.
 
 
-LinkedIn: @Devikrishna R
-
-License
-This project is licensed under the MIT License.
 
