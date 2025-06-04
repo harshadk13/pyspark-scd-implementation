@@ -12,13 +12,6 @@ SCD Type-2: Maintains full history by creating new records with validity dates a
 
 SCD Type-3: Tracks limited history by adding columns for previous values.
 
-Repository Structure
-pyspark-scd-implementation/
-├── src/
-│   ├── scd_type1.py   # SCD Type-1 implementation
-│   ├── scd_type2.py   # SCD Type-2 implementation
-│   ├── scd_type3.py   # SCD Type-3 implementation
-├── README.md          # Project documentation
 
 Prerequisites
 
