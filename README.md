@@ -30,7 +30,7 @@ pip install pyspark
 Usage
 
 Clone the Repository:
-git clone https://github.com/your-username/pyspark-scd-implementation.git
+git clone https://github.com/harshadk13/pyspark-scd-implementation.git
 cd pyspark-scd-implementation
 
 
@@ -60,14 +60,7 @@ Tracks limited history by adding columns for previous values (e.g., Previous_Loc
 Suitable for scenarios where only the most recent change needs to be tracked.
 Example: A change in location updates the current value and stores the old value in Previous_Location.
 
-Example Output
-See each script for detailed output examples. The scripts print the input DataFrames and the final results after applying SCD logic.
-Contributing
-Contributions are welcome! Please submit a pull request or open an issue for suggestions or bug reports.
-Author
 
-Devikrishna R
-Email: visionboard044@gmail.com
 LinkedIn: @Devikrishna R
 
 License
