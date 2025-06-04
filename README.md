@@ -25,7 +25,9 @@ pip install pyspark
 Usage
 
 Clone the Repository:
+
 git clone https://github.com/harshadk13/pyspark-scd-implementation.git
+
 cd pyspark-scd-implementation
 
 
@@ -37,6 +39,7 @@ Input Data:The scripts use sample employee data with columns id, name, location,
 
 
 SCD Implementations
+
 SCD Type-1
 
 Overwrites existing records with new data.
