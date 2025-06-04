@@ -7,7 +7,9 @@ Overview
 Slowly Changing Dimensions (SCDs) handle data that changes infrequently, such as customer profiles. This repository demonstrates:
 
 SCD Type-1: Overwrites existing data without retaining history.
+
 SCD Type-2: Maintains full history by creating new records with validity dates and active flags.
+
 SCD Type-3: Tracks limited history by adding columns for previous values.
 
 Repository Structure
