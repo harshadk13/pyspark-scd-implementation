@@ -38,7 +38,7 @@ spark-submit src/scd_type1.py
 Input Data:The scripts use sample employee data with columns id, name, location, and salary. Modify the data_full and data_daily lists in each script to use your own data.
 
 
-SCD Implementations
+Slowly Changing Dimensions Implementations
 
 SCD Type-1
 
