@@ -1,5 +1,5 @@
 # pyspark-scd-implementation
-PySpark implementations of SCD Type-1, Type-2, and Type-3
+PySpark implementations of SCD Type-1, Type-2, and Type-3.
 
 PySpark SCD Implementation
 This repository contains PySpark implementations of Slowly Changing Dimension (SCD) Type-1, Type-2, and Type-3 for managing dimension table updates in a data warehouse.
